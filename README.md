@@ -24,7 +24,8 @@ Parent side
 
 
 
-https://github.com/lujain2000-c/Final-Project-Tuwaiq-Academy-Swift-Camp/assets/78503639/64da4266-3180-49e3-8b28-10b154da60d6
+https://github.com/lujain2000-c/Final-Project-Tuwaiq-Academy-Swift-Camp/assets/78503639/528cb1d0-1ef4-45e7-a1a5-ad38d5d917b2
+
 
 
 
@@ -34,6 +35,6 @@ Maqsafna side
 
 
 
+https://github.com/lujain2000-c/Final-Project-Tuwaiq-Academy-Swift-Camp/assets/78503639/64da4266-3180-49e3-8b28-10b154da60d6
 
-https://github.com/lujain2000-c/Final-Project-Tuwaiq-Academy-Swift-Camp/assets/78503639/528cb1d0-1ef4-45e7-a1a5-ad38d5d917b2
 
