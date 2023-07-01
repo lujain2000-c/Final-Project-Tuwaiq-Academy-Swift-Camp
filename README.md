@@ -21,7 +21,7 @@ Tools:
  Demo:
 
 Parent side
-https://github.com/lujain2000-c/Final-Project-Tuwaiq-Academy-Swift-Camp/assets/78503639/1c41aa02-97ec-415d-a8a8-45901f27f597
+[https://github.com/lujain2000-c/Final-Project-Tuwaiq-Academy-Swift-Camp/assets/78503639/1c41aa02-97ec-415d-a8a8-45901f27f597]
 
 Maqsafna side
 https://github.com/lujain2000-c/Final-Project-Tuwaiq-Academy-Swift-Camp/assets/78503639/528cb1d0-1ef4-45e7-a1a5-ad38d5d917b2
