@@ -1,4 +1,4 @@
-# Final-Project-Tuwaiq-Academy-Swift-Camp
+# Maqsafna
 
 Maqsafna is iOS Application allows parents to charge a fee to their children in school. 
 
